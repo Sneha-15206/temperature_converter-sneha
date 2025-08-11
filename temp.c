@@ -1,6 +1,6 @@
-#include <stdio.h>
+i#include <stdio.h>
 
-int main() 
+	int main() 
 {
     int choice;
     float temp;
